@@ -19,7 +19,7 @@ Langages & Bas niveau
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/shell_script-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/assembly-%2523545454.svg%3Fstyle%3Dfor-the-badge%26logo%3Dassembly%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/assembly-%252523545454.svg%3Fstyle%3Dfor-the-badge%26logo%3Dassembly%26logoColor%3Dwhite" />
 
 Web & Front-end
 
